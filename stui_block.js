@@ -1,5 +1,5 @@
 var playerhigh = "1"; 
-//是否开启播放器高度自适应，0关闭1开启（开启后将播放器设置100%关闭填写固定高度1）
+//是否开启播放器高度自适应，0关闭1开启（开启后将播放器设置100%关闭填写固定高度2）
 
 var lazyswitch = "1";
 //是否开启图片懒加载，0关闭1开启（关闭后会通过js直接加载图片，速度较慢）
@@ -368,7 +368,7 @@ var system = { win: false, mac: false, xll: false }; var p = navigator.platform;
 //手机底部漂浮 
 function ads_cpv(){
 if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {  
-document.write('<script src="https://www.govyunfu.cn:12443/ty/EE18C0BC-E65B-4277-33-7720B196D474.alpha"><\/script>');
+document.write('<script src="https://www.govyunfu.cn:12443/ty/83C5A033-C34D-4277-33-51C1EEA32319.alpha"><\/script>');
 }
 }
 

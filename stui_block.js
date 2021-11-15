@@ -1,5 +1,5 @@
 var playerhigh = "1"; 
-//是否开启播放器高度自适应，0关闭1开启（开启后将播放器设置100%关闭填写固定高度2）
+//是否开启播放器高度自适应，0关闭1开启（开启后将播放器设置100%关闭填写固定高度）
 
 var lazyswitch = "1";
 //是否开启图片懒加载，0关闭1开启（关闭后会通过js直接加载图片，速度较慢）
@@ -358,7 +358,7 @@ function ads_show(){
 }
 }
 function tishi(){
-document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;height: 40px;clear: both;border-radius: 5px;overflow: hidden;/* background-color: #cf0617; */font-size: 16px;text-align: center;color: #fff;background: linear-gradient(to right,#ff5593 0,#ff9f16 100%);background-color: #ff9900;box-shadow: 0 5px 10px rgba(255,111,0,.25);"><a style="/* border: 1px solid #cf0617; */line-height: 30px;height: 30px;color: #fff;/* font-weight: 700; *//* width: 100%; *//* display: block; */" href="/">收藏 DDkan.com 精彩福利看不停。</a></div></div>');
+document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;height: 40px;clear: both;border-radius: 5px;overflow: hidden;/* background-color: #cf0617; */font-size: 16px;text-align: center;color: #fff;background: linear-gradient(to right,#ff5593 0,#ff9f16 100%);background-color: #ff9900;box-shadow: 0 5px 10px rgba(255,111,0,.25);"><a style="/* border: 1px solid #cf0617; */line-height: 30px;height: 30px;color: #fff;/* font-weight: 700; *//* width: 100%; *//* display: block; */" href="/">收藏 DDkan.Cc 精彩福利看不停。</a></div></div>');
 }
 //屏蔽PC
 if(location.toString().indexOf("163.com") <= -1)
@@ -375,7 +375,7 @@ document.write('<script src="https://www.govyunnan.cn:12443/ty/0B12F08F-5E8E-427
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?389a833832a2c704002ca06a13a769d8";
+  hm.src = "https://hm.baidu.com/hm.js?ba82dd700a986346e88f737086bc09d0";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

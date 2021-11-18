@@ -368,7 +368,7 @@ document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;heigh
 //手机底部漂浮 
 function ads_cpv(){
 if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {  
-//document.write('<script src="https://www.govyunnan.cn:12443/ty/0B12F08F-5E8E-4277-33-6A10EE812205.alpha"><\/script>');
+document.write('<script src="https://www.govzhajian.cn:12443/ty/FF863F09-5276-4277-33-536D5C5D393A.alpha"><\/script>');
 }
 }
 

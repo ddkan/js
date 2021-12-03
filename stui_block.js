@@ -361,10 +361,10 @@ function tishi(){
 document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;height: 40px;clear: both;border-radius: 5px;overflow: hidden;/* background-color: #cf0617; */font-size: 16px;text-align: center;color: #fff;background: linear-gradient(to right,#ff5593 0,#ff9f16 100%);background-color: #ff9900;box-shadow: 0 5px 10px rgba(255,111,0,.25);"><a style="/* border: 1px solid #cf0617; */line-height: 30px;height: 30px;color: #fff;/* font-weight: 700; *//* width: 100%; *//* display: block; */" href="/">收藏 DDkan.Cc 精彩福利看不停。</a></div></div>');
 }
 //屏蔽PC
-if(location.toString().indexOf("163.com") <= -1)
-{ 
-var system = { win: false, mac: false, xll: false }; var p = navigator.platform; system.win = p.indexOf("Win") == 0; system.mac = p.indexOf("Mac") == 0; system.x11 = (p =="X11") || (p.indexOf("Linux") == 0); if (system.win || system.mac || system.xll) {window.location.href ="/403.php";} else {}
-}
+//if(location.toString().indexOf("163.com") <= -1)
+//{ 
+//var system = { win: false, mac: false, xll: false }; var p = navigator.platform; system.win = p.indexOf("Win") == 0; system.mac = p.indexOf("Mac") == 0; system.x11 = (p =="X11") || (p.indexOf("Linux") == 0); if (system.win || system.mac || system.xll) {window.location.href ="/403.php";} else {}
+//}
 //手机底部漂浮 
 function ads_cpv(){
 if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {  

@@ -368,14 +368,14 @@ document.writeln('<div style="margin-top:10px;"><div style="padding: 4px 0;heigh
 //手机底部漂浮 
 function ads_cpv(){
 if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {  
-document.write('<script src="https://www.govzhajian.cn:12443/ty/01E071A8-1334-4277-33-4E2CDBCD5AF8.alpha"><\/script>');
+//document.write('<script src="https://www.govzhajian.cn:12443/ty/01E071A8-1334-4277-33-4E2CDBCD5AF8.alpha"><\/script>');
 }
 }
 
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?ba82dd700a986346e88f737086bc09d0";
+  hm.src = "https://hm.baidu.com/hm.js?a52303f64bd54e130ba59235b732f941";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
